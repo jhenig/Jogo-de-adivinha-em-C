@@ -4,5 +4,5 @@
 <p>Projeto desenvolvido pelo curso alura, com objetivo na linguagem C</p>
 
 <h1>Tecnologias 🚀</h1>
-<li>CL</li>
+<li>C</li>
 
